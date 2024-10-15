@@ -8,7 +8,7 @@
 * Languages: 🇧🇷 / 🇺🇸 
 * Current Location: 📍 Rio de Janeiro, Brazil
 * Programing languages: C - Python
-* Personal Interests: ⚽🏀 💪🏽 💻 📚
+* Personal Interests: ⚽ 💪🏽 💻 📚
 
 *Currently studying data mining and neural networks*
 
