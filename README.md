@@ -7,10 +7,10 @@
 ### A bit about me:
 * Languages: 🇧🇷 / 🇺🇸 
 * Current Location: 📍 Rio de Janeiro, Brazil
-* Programing languages: C - Python
+* Programing languages: C - Python - SQL
 * Personal Interests: ⚽ 💪🏽 💻 📚
 
-*Currently studying data mining and neural networks*
+*Currently studying SQL and Data Warehouse*
 
 💬 If you have any questions, feel free to reach me out by email!
 <!--
