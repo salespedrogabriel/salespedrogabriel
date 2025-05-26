@@ -10,7 +10,7 @@
 * Programing languages: C - Python - SQL
 * Personal Interests: ⚽ 💪🏽 💻 📚
 
-*Currently studying SQL and Data Warehouse*
+*Currently studying One Shot Learning and Docker*
 
 💬 If you have any questions, feel free to reach me out by email!
 <!--
