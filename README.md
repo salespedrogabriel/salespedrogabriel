@@ -10,7 +10,7 @@
 * Programing languages: C - Python - SQL
 * Personal Interests: ⚽ 💪🏽 💻 📚
 
-*Currently studying One Shot Learning and Docker*
+*Currently studying JavaScript, Vue3 and MicroStation*
 
 💬 If you have any questions, feel free to reach me out by email!
 <!--
