@@ -7,7 +7,7 @@
 ### A bit about me:
 * Languages: 🇧🇷 / 🇺🇸 
 * Current Location: 📍 Rio de Janeiro, Brazil
-* Programing languages: C - Python - SQL
+* Programing languages: C - Java - Python
 * Personal Interests: ⚽ 💪🏽 💻 📚
 
 *Currently studying JavaScript, Vue3 and MicroStation*
