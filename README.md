@@ -1,6 +1,6 @@
 # Hey there, feel free to check out what I've been doing! 👋
 
-## Computer Engineering Student
+## Computer Engineer
 
 💻 Currently working at [ICA PUC-Rio](https://ica.ele.puc-rio.br/) as engineering intern.
 
