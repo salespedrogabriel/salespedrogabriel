@@ -8,7 +8,14 @@
 * Languages: 🇧🇷 / 🇺🇸 
 * Current Location: 📍 Rio de Janeiro, Brazil
 * Programing languages: C - Java - Python - JavaScript
-* Personal Interests: ⚽ 💪🏽 💻 📚
+
+## Repositories
+* Projects at PUC-Rio
+  * INF1301 *Modular Programming*: [SAU PUC-Rio](https://github.com/salespedrogabriel/SAU-PUC-Rio)
+  * ENG1448 *Digital Computing*: [Digital Computing Projects](https://github.com/salespedrogabriel/ENG1448-Digital-Computing)
+  * INF1608 *Numerical Analysis*: [Numerical Analysis Projects](https://github.com/salespedrogabriel/INF1608-Numerical-Analysis)
+  * ENG1133 *Undergraduate Thesis*: [Subsea One-Shot Classification](https://github.com/salespedrogabriel/Subsea-One-Shot-Classification)
+  * ENG1419 *Microcontroller Programming*: [Singing and Dancing Robot]
 
 *Currently studying JavaScript, Vue3 and MicroStation*
 
