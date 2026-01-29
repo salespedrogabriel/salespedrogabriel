@@ -1,36 +1,31 @@
-# Hey there, feel free to check out what I've been doing! 👋
+# Pedro Sales | @salespedrogabriel
 
-## Computer Engineer
+## Experience in
 
-💻 Currently working at [ICA PUC-Rio](https://ica.ele.puc-rio.br/) as engineering intern.
+![HTML5](https://img.shields.io/badge/-HTML-058BA1?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-0C945B?style=flat&logo=css)
+![JS](https://img.shields.io/badge/-JS-058BA1?style=flat&logo=javascript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-0C945B?style=flat&logo=vue.js)
 
-### A bit about me:
-* Languages: 🇧🇷 / 🇺🇸 
-* Current Location: 📍 Rio de Janeiro, Brazil
-* Programing languages: C - Java - Python - JavaScript
+![Pytorch](https://img.shields.io/badge/-Pytorch-058BA1?style=flat&logo=pytorch)
+![Pandas](https://img.shields.io/badge/-Pandas-0C945B?style=flat&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-058BA1?style=flat&logo=scikitlearn)
+![Docker](https://img.shields.io/badge/-Docker-0C945B?style=flat&logo=docker)
+
+
+![Python](https://img.shields.io/badge/-Python-0C945B?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-058BA1?style=flat&logo=c)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0C945B?style=flat&logo=postgresql)
+
+---
 
 ## Repositories
 * Projects at PUC-Rio
-  * INF1301 *Modular Programming*: [SAU PUC-Rio](https://github.com/salespedrogabriel/SAU-PUC-Rio)
-  * ENG1448 *Digital Computing*: [Digital Computing Projects](https://github.com/salespedrogabriel/ENG1448-Digital-Computing)
-  * INF1608 *Numerical Analysis*: [Numerical Analysis Projects](https://github.com/salespedrogabriel/INF1608-Numerical-Analysis)
-  * ENG1133 *Undergraduate Thesis*: [Subsea One-Shot Classification](https://github.com/salespedrogabriel/Subsea-One-Shot-Classification)
-  * ENG1419 *Microcontroller Programming*: [Singing and Dancing Robot]
-
-*Currently studying JavaScript, Vue3 and MicroStation*
+  * **INF1301** *Modular Programming*: [SAU PUC-Rio](https://github.com/salespedrogabriel/SAU-PUC-Rio)
+  * **ENG1448** *Digital Computing*: [Digital Computing Projects](https://github.com/salespedrogabriel/ENG1448-Digital-Computing)
+  * **INF1608** *Numerical Analysis*: [Numerical Analysis Projects](https://github.com/salespedrogabriel/INF1608-Numerical-Analysis)
+  * **ENG1133** *Undergraduate Thesis*: [Subsea One-Shot Classification](https://github.com/salespedrogabriel/Subsea-One-Shot-Classification)
+  * **ENG1419** *Microcontroller Programming*: [Singing and Dancing Robot]
 
 💬 If you have any questions, feel free to reach me out by email!
-<!--
-**salespedrogabriel/salespedrogabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
