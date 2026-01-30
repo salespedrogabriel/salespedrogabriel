@@ -12,10 +12,11 @@
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-058BA1?style=flat&logo=scikitlearn)
 ![Docker](https://img.shields.io/badge/-Docker-0C945B?style=flat&logo=docker)
 
-
 ![Python](https://img.shields.io/badge/-Python-0C945B?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-058BA1?style=flat&logo=c)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0C945B?style=flat&logo=postgresql)
+
+
 
 ---
 
@@ -26,4 +27,3 @@
   * **INF1608** *Numerical Analysis*: [Numerical Analysis Projects](https://github.com/salespedrogabriel/INF1608-Numerical-Analysis)
   * **ENG1133** *Undergraduate Thesis*: [Subsea One-Shot Classification](https://github.com/salespedrogabriel/Subsea-One-Shot-Classification)
   * **ENG1419** *Microcontroller Programming*: [Singing & Dancing Robot](https://github.com/salespedrogabriel/Singing-Dancing-Robot)
-
