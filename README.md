@@ -23,6 +23,7 @@
 ## Repositories
 * Specialization in Generative AI & LLMs at PUC-Rio
   * **TDP** *Transforming Data Into Insights*: [TDP Projects & Notes](https://github.com/salespedrogabriel/TDP-Transforming-Data-Into-Insights)
+  * **DPIA** *Demystifying AI programming*: [DPIA Projects & Notes] (https://github.com/salespedrogabriel/DPIA-Demystifying-AI-Programming)
 
 * Undergraduate Projects at PUC-Rio
   * **INF1301** *Modular Programming*: [SAU PUC-Rio](https://github.com/salespedrogabriel/SAU-PUC-Rio)
