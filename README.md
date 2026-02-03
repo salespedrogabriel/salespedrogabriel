@@ -22,7 +22,7 @@
 
 ## Repositories
 * Specialization in Generative AI & LLMs at PUC-Rio
-  * **TDP** *Transforming Data Into Insights: [TDP Projects & Notes]
+  * **TDP** *Transforming Data Into Insights*: [TDP Projects & Notes](https://github.com/salespedrogabriel/TDP-Transforming-Data-Into-Insights)
 * Undergraduate Projects at PUC-Rio
   * **INF1301** *Modular Programming*: [SAU PUC-Rio](https://github.com/salespedrogabriel/SAU-PUC-Rio)
   * **ENG1448** *Digital Computing*: [Digital Computing Projects](https://github.com/salespedrogabriel/ENG1448-Digital-Computing)
