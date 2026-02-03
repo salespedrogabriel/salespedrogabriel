@@ -31,3 +31,6 @@
   * **INF1608** *Numerical Analysis*: [Numerical Analysis Projects](https://github.com/salespedrogabriel/INF1608-Numerical-Analysis)
   * **ENG1133** *Undergraduate Thesis*: [Subsea One-Shot Classification](https://github.com/salespedrogabriel/Subsea-One-Shot-Classification)
   * **ENG1419** *Microcontroller Programming*: [Singing & Dancing Robot](https://github.com/salespedrogabriel/Singing-Dancing-Robot)
+
+* Extension & Certificate Courses at PUC-Rio
+  * **QML** *Quantum Machine Learning*: [Quantum Machine Learning Projects & Notes](https://github.com/salespedrogabriel/Quantum-Machine-Learning)
