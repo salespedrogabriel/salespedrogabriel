@@ -21,19 +21,15 @@
 ---
 
 ## Repositories
-<div style="color: #417E87; font-size: 14px;">
 
-<details>
-<summary>Specialization in Generative AI & LLMs at PUC-Rio</summary>
-<br/>
+* Specialization in Generative AI & LLMs at PUC-Rio
 
-* **TDP** *Transforming Data Into Insights*: [TDP Projects & Notes](https://github.com/salespedrogabriel/TDP-Transforming-Data-Into-Insights)
-* **DPIA** *Demystifying AI programming*: [DPIA Projects & Notes](https://github.com/salespedrogabriel/DPIA-Demystifying-AI-Programming)
+  * **TDP** *Transforming Data Into Insights*: [TDP Projects & Notes](https://github.com/salespedrogabriel/TDP-Transforming-Data-Into-Insights)
+  * **DPIA** *Demystifying AI programming*: [DPIA Projects & Notes](https://github.com/salespedrogabriel/DPIA-Demystifying-AI-Programming)
 
-</details>
-<details>
-<summary>Undergraduate Projects at PUC-Rio</summary>
-<br/>
+
+
+* Undergraduate Projects at PUC-Rio
 
   * **INF1301** *Modular Programming*: [SAU PUC-Rio](https://github.com/salespedrogabriel/SAU-PUC-Rio)
   * **ENG1448** *Digital Computing*: [Digital Computing Projects](https://github.com/salespedrogabriel/ENG1448-Digital-Computing)
@@ -41,12 +37,6 @@
   * **ENG1133** *Undergraduate Thesis*: [Subsea One-Shot Classification](https://github.com/salespedrogabriel/Subsea-One-Shot-Classification)
   * **ENG1419** *Microcontroller Programming*: [Singing & Dancing Robot](https://github.com/salespedrogabriel/Singing-Dancing-Robot)
 
-</details>
-<details>
-<summary>Extension & Certificate Courses at PUC-Rio</summary>
-<br/>
+* Extension & Certificate Courses at PUC-Rio
 
   * **QML** *Quantum Machine Learning*: [Quantum Machine Learning Projects & Notes](https://github.com/salespedrogabriel/Quantum-Machine-Learning)
-
-</details>
-</div>
